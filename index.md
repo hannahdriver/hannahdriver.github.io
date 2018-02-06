@@ -1,2 +1,5 @@
 # Biol-812 Assignment
-# Hi Everyone
+
+# Using GitHub
+
+## Questions:
