@@ -10,7 +10,7 @@
 
 **2. What kind of files/info should be saved in a Git repository? What types of files/info should not be included in a Git repo?**
 
-+ Code and text files should be saved in a Git repository, however, large data files and sensitive information/data should not be included in a Git repository.
++ Code and text files should be saved in a Git repository, however, large data files and sensitive information should not be included in a Git repository.
 
 **3. What are the commands to undo a commit?**
 
@@ -51,7 +51,7 @@ git checkout master
 
 **Pros:**
 
-+ External users can collaborate with you and improve your projects
++ Other developers can collaborate with you
 + It serves as a back up for your work
 + Hosting public repositories is free
 
