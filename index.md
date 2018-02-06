@@ -1,10 +1,12 @@
 # Biol-812 Assignment
 
-# Using GitHub
+# Using Git
 
 ## Questions:
 
 **1. When should you use Git for a project?**
+
+*Git is a great tool for collaboration, as multiple people can work on the same project at once. Git is also useful for keeping track of changes made to a project and allowing users to revert back to previous versions of their work.
 
 **2. What kind of files/info should be saved in a Git repository? What types of files/info should not be included in a Git repo?**
 
