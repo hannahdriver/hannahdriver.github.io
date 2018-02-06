@@ -4,9 +4,9 @@
 
 ## Questions:
 
-### 1. When should you use Git for a project?
+**1. When should you use Git for a project?**
 
-### 2. What kind of files/info should be saved in a Git repository? What types of files/info should not be included in a Git repo?
+**2. What kind of files/info should be saved in a Git repository? What types of files/info should not be included in a Git repo?**
 
 ### 3. What are the commands to undo a commit?
 
