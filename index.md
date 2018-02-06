@@ -34,7 +34,7 @@ git checkout HEAD~1 <file_name>
 git checkout master
 ```
 
-**5.1 Your boss has no idea what Git is or why you are using it. Explain the pros / cons of using Git for your research project.**
+**5.1. Your boss has no idea what Git is or why you are using it. Explain the pros / cons of using Git for your research project.**
 
 **Pros:**
 
@@ -47,13 +47,13 @@ git checkout master
 + Large data files cannot be easily manipulated with Git
 + Learning to program in Git requires time and effort
 
-**5.2 Explain the pros / cons of hosting your project in a public (or private) repository on Github/Bitbucket/Gitlab/etc.**
+**5.2. Explain the pros / cons of hosting your project in a public (or private) repository on Github/Bitbucket/Gitlab/etc.**
 
 **Pros:**
 
 + External users can collaborate with you and improve your projects
 + It serves as a back up for your work
-+ It's free to host public repositories
++ Hosting public repositories is free
 
 **Cons**
 
