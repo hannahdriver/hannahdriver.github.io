@@ -1,0 +1,1205 @@
+LOCUS       BC047343                2839 bp    mRNA    linear   HTC 25-AUG-2003
+DEFINITION  Homo sapiens cDNA clone IMAGE:5177205.
+ACCESSION   BC047343
+VERSION     BC047343.2
+KEYWORDS    HTC.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2839)
+  AUTHORS   Strausberg,R.L., Feingold,E.A., Grouse,L.H., Derge,J.G.,
+            Klausner,R.D., Collins,F.S., Wagner,L., Shenmen,C.M., Schuler,G.D.,
+            Altschul,S.F., Zeeberg,B., Buetow,K.H., Schaefer,C.F., Bhat,N.K.,
+            Hopkins,R.F., Jordan,H., Moore,T., Max,S.I., Wang,J., Hsieh,F.,
+            Diatchenko,L., Marusina,K., Farmer,A.A., Rubin,G.M., Hong,L.,
+            Stapleton,M., Soares,M.B., Bonaldo,M.F., Casavant,T.L.,
+            Scheetz,T.E., Brownstein,M.J., Usdin,T.B., Toshiyuki,S.,
+            Carninci,P., Prange,C., Raha,S.S., Loquellano,N.A., Peters,G.J.,
+            Abramson,R.D., Mullahy,S.J., Bosak,S.A., McEwan,P.J.,
+            McKernan,K.J., Malek,J.A., Gunaratne,P.H., Richards,S.,
+            Worley,K.C., Hale,S., Garcia,A.M., Gay,L.J., Hulyk,S.W.,
+            Villalon,D.K., Muzny,D.M., Sodergren,E.J., Lu,X., Gibbs,R.A.,
+            Fahey,J., Helton,E., Ketteman,M., Madan,A., Rodrigues,S.,
+            Sanchez,A., Whiting,M., Madan,A., Young,A.C., Shevchenko,Y.,
+            Bouffard,G.G., Blakesley,R.W., Touchman,J.W., Green,E.D.,
+            Dickson,M.C., Rodriguez,A.C., Grimwood,J., Schmutz,J., Myers,R.M.,
+            Butterfield,Y.S., Krzywinski,M.I., Skalska,U., Smailus,D.E.,
+            Schnerch,A., Schein,J.E., Jones,S.J. and Marra,M.A.
+  TITLE     Generation and initial analysis of more than 15,000 full-length
+            human and mouse cDNA sequences
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 99 (26), 16899-16903 (2002)
+   PUBMED   12477932
+REFERENCE   2  (bases 1 to 2839)
+  AUTHORS   Strausberg,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-FEB-2003) National Institutes of Health, Mammalian
+            Gene Collection (MGC), Cancer Genomics Office, National Cancer
+            Institute, 31 Center Drive, Room 11A03, Bethesda, MD 20892-2590,
+            USA
+  REMARK    NIH-MGC Project URL: http://mgc.nci.nih.gov
+COMMENT     On Aug 25, 2003 this sequence version replaced BC047343.1.
+            Contact: MGC help desk
+            Email: cgapbs-r@mail.nih.gov
+            Tissue Procurement: Life Technologies, Inc.
+            cDNA Library Preparation: Life Technologies, Inc.
+            cDNA Library Arrayed by: The I.M.A.G.E. Consortium (LLNL)
+            DNA Sequencing by: Baylor College of Medicine Human Genome
+            Sequencing Center
+            Center code: BCM-HGSC
+            Web site: http://www.hgsc.bcm.tmc.edu/cdna/
+            Contact: amg@bcm.tmc.edu
+            Gunaratne, P.H., Garcia, A.M., Lu, X., Hulyk, S.W., Loulseged, H.,
+            Kowis, C.R., Sneed, A.J., Martin, R.G., Muzny, D.M., Nanavati,
+            A.N., Gibbs, R.A.
+            
+            Clone distribution: MGC clone distribution information can be found
+            through the I.M.A.G.E. Consortium/LLNL at: http://image.llnl.gov
+            Series: IRAK Plate: 51 Row: n Column: 9
+            This clone was selected for full length sequencing because it
+            passed the following selection criteria: matched mRNA gi: 4557712
+            This clone has the following problem: no 5' EST match.
+            
+            Differences found between this sequence and the human reference
+            genome (build 36) are described in misc_difference features below
+            and these differences were also compared to chimpanzee genome
+            (build 2).
+FEATURES             Location/Qualifiers
+     source          1..2839
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="IMAGE:5177205"
+                     /tissue_type="Brain, Lung, Testis, adult, pooled whole"
+                     /clone_lib="NIH_MGC_115"
+                     /lab_host="DH10B"
+                     /note="Vector: pCMV-SPORT6"
+     misc_difference 1..24
+                     /note="24 bases at the 5' end do not align to the human
+                     genome."
+     misc_difference 27..28
+                     /note="in the human genome : TT. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 34
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 43
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 71
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 80
+                     /note="'T' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 83
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 89
+                     /note="'A' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 107
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 113
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 122
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 125
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 131
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 134
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 146
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 158
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 195
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 209..210
+                     /note="in the human genome : AT. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 218
+                     /note="'T' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 228
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 243
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 260
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 263
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 275
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 305
+                     /note="'G' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 308
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 310
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 314
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 323
+                     /note="'G' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 326
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 329
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 334..335
+                     /note="in the human genome : AA. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 338
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 350
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 361..362
+                     /note="in the human genome : TG. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 375
+                     /note="'G' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 378
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 380
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 386
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 389
+                     /note="'G' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 419..420
+                     /note="in the human genome : CA. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 428
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 431
+                     /note="'T' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 468
+                     /note="'A' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 473
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 494
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 500
+                     /note="'A' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 557
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 560
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 596
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 602
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 611
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 614
+                     /note="'A' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 626
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 632
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 639
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 646
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 650
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 654..655
+                     /note="in the human genome : AC. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 659
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 662
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 708
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 728
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 734
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 815
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 845
+                     /note="'T' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 848
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 867
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 881
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 884..887
+                     /note="in the human genome : CACA. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 896
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 911
+                     /note="'T' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 917
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 924
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 926
+                     /note="'A' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 929
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 934..935
+                     /note="in the human genome : GC. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 962
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 967
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 975..976
+                     /note="in the human genome : AG. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 978
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 981
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 984
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 998..999
+                     /note="in the human genome : GT."
+     misc_difference 1006
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1044
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1049
+                     /note="'G' in cDNA is 'C' in the human genome."
+     misc_difference 1054..1055
+                     /note="2 bases in cDNA are not found in the human genome.
+                     The chimpanzee genome agrees with the cDNA sequence,
+                     suggesting that this difference is unlikely to be due to
+                     an artifact."
+     misc_difference 1058
+                     /note="'C' in cDNA is 'T' in the human genome."
+     misc_difference 1062
+                     /note="'T' in cDNA is 'C' in the human genome."
+     misc_difference 1066..1067
+                     /note="in the human genome : AG. The chimpanzee genome
+                     agrees with the cDNA sequence, suggesting that this
+                     difference is unlikely to be due to an artifact."
+     misc_difference 1072
+                     /note="'A' in cDNA is 'T' in the human genome."
+     misc_difference 1080
+                     /note="'C' in cDNA is 'T' in the human genome."
+     misc_difference 1088
+                     /note="'T' in cDNA is 'A' in the human genome."
+     misc_difference 1089
+                     /note="1 base in cDNA is not found in the human genome.
+                     The chimpanzee genome agrees with the cDNA sequence,
+                     suggesting that this difference is unlikely to be due to
+                     an artifact."
+     misc_difference 1093
+                     /note="'T' in cDNA is 'G' in the human genome."
+     misc_difference 1095
+                     /note="'C' in cDNA is 'T' in the human genome."
+     misc_difference 1099
+                     /note="'G' in cDNA is 'A' in the human genome."
+     misc_difference 1103
+                     /note="'A' in cDNA is 'G' in the human genome."
+     misc_difference 1107..1109
+                     /note="in the human genome : CAA. The chimpanzee genome
+                     agrees with the cDNA sequence, suggesting that this
+                     difference is unlikely to be due to an artifact."
+     misc_difference 1115
+                     /note="'G' in cDNA is 'A' in the human genome."
+     misc_difference 1119
+                     /note="'C' in cDNA is 'T' in the human genome."
+     misc_difference 1122..1123
+                     /note="in the human genome : TA. The chimpanzee genome
+                     agrees with the cDNA sequence, suggesting that this
+                     difference is unlikely to be due to an artifact."
+     misc_difference 1126
+                     /note="'A' in cDNA is 'G' in the human genome."
+     misc_difference 1135..1136
+                     /note="in the human genome : AT. The chimpanzee genome
+                     agrees with the cDNA sequence, suggesting that this
+                     difference is unlikely to be due to an artifact."
+     misc_difference 1139
+                     /note="'A' in cDNA is 'G' in the human genome."
+     misc_difference 1142
+                     /note="'G' in cDNA is 'A' in the human genome."
+     misc_difference 1143^1144
+                     /note="2 bases in the human genome, GT, are not found in
+                     cDNA. The chimpanzee genome agrees with the cDNA sequence,
+                     suggesting that this difference is unlikely to be due to
+                     an artifact."
+     misc_difference 1147..1149
+                     /note="in the human genome : GTT. The chimpanzee genome
+                     agrees with the cDNA sequence, suggesting that this
+                     difference is unlikely to be due to an artifact."
+     misc_difference 1153
+                     /note="'C' in cDNA is 'T' in the human genome."
+     misc_difference 1155
+                     /note="'T' in cDNA is 'G' in the human genome."
+     misc_difference 1161
+                     /note="'C' in cDNA is 'T' in the human genome."
+     misc_difference 1163
+                     /note="'A' in cDNA is 'T' in the human genome."
+     misc_difference 1165
+                     /note="'C' in cDNA is 'T' in the human genome."
+     misc_difference 1167
+                     /note="'G' in cDNA is 'T' in the human genome."
+     misc_difference 1169
+                     /note="'A' in cDNA is 'C' in the human genome."
+     misc_difference 1173..1175
+                     /note="in the human genome : GCT. The chimpanzee genome
+                     agrees with the cDNA sequence, suggesting that this
+                     difference is unlikely to be due to an artifact."
+     misc_difference 1181..1182
+                     /note="in the human genome : AG. The chimpanzee genome
+                     agrees with the cDNA sequence, suggesting that this
+                     difference is unlikely to be due to an artifact."
+     misc_difference 1185
+                     /note="'T' in cDNA is 'G' in the human genome."
+     misc_difference 1218
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1257
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1260
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1263
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1266
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1269
+                     /note="'A' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1272
+                     /note="'G' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1278
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1293
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1296
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1311
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1317
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1323
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1325..1326
+                     /note="in the human genome : AC. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 1335
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1337..1338
+                     /note="in the human genome : CG. The chimpanzee genome
+                     agrees with the cDNA sequence, suggesting that this
+                     difference is unlikely to be due to an artifact."
+     misc_difference 1341
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1344
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1347
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1356
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1371
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1381
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1404
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1434
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1437
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1440
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1449
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1470
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1473
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1485
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1491
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1504
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1506
+                     /note="'A' in cDNA is 'G' in the human genome."
+     misc_difference 1515
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1529..1530
+                     /note="in the human genome : TG. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 1545
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1554
+                     /note="'G' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1563
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1574
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1587
+                     /note="'T' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1593
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1605
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1608
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1611
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1617..1618
+                     /note="in the human genome : AC. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 1623
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1626
+                     /note="'T' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1647
+                     /note="'A' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1652
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1687
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1695
+                     /note="'A' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1701
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1710
+                     /note="'A' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1719
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1735
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1743
+                     /note="'T' in cDNA is 'C' in the human genome."
+     misc_difference 1746
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1755
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1759
+                     /note="'A' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1816
+                     /note="'C' in cDNA is 'T' in the human genome."
+     misc_difference 1848
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1858
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1869
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1872
+                     /note="'G' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1875
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1884
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1890
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1908
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1914
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1924
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1937
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1941
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1957
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1962
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1980
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1991
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1995
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 1998
+                     /note="'A' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2004
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2010
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2022
+                     /note="'G' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2026..2028
+                     /note="in the human genome : ACA. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 2034
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2037
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2046
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2055
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2061
+                     /note="'G' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2074
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2082
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2091
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2094
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2100
+                     /note="'G' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2103
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2109
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2112
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2115
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2148
+                     /note="'A' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2208
+                     /note="'G' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2226
+                     /note="'A' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2241
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2247..2248
+                     /note="in the human genome : TG. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 2253
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2258
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2265..2266
+                     /note="in the human genome : AT. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 2275
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2279
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2292
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2301
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2331
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2346
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2349
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2358
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2362
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2371
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2382..2383
+                     /note="in the human genome : GT. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 2392
+                     /note="'T' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2412..2414
+                     /note="in the human genome : GAG. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 2416..2417
+                     /note="in the human genome : AG. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 2419
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2421
+                     /note="'A' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2423
+                     /note="'T' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2425
+                     /note="'G' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2427
+                     /note="'G' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2429
+                     /note="1 base in cDNA is not found in the human genome.
+                     The chimpanzee genome agrees with the human genomic
+                     sequence and not the cDNA."
+     misc_difference 2433
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2452
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2455^2456
+                     /note="2 bases in the human genome, GT, are not found in
+                     cDNA. The chimpanzee genome agrees with the human genomic
+                     sequence and not the cDNA."
+     misc_difference 2465
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2478
+                     /note="'G' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2486
+                     /note="'G' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2496
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2501
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2506
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2509
+                     /note="'A' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2511
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2514
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2518
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2521^2522
+                     /note="2 bases in the human genome, GT, are not found in
+                     cDNA. The chimpanzee genome agrees with the human genomic
+                     sequence and not the cDNA."
+     misc_difference 2524
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2527
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2534..2537
+                     /note="4 bases in cDNA are not found in the human genome.
+                     The chimpanzee genome agrees with the human genomic
+                     sequence and not the cDNA."
+     misc_difference 2555
+                     /note="'C' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2578
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2587
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2591
+                     /note="'G' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2596
+                     /note="'G' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2607
+                     /note="'C' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2631
+                     /note="'T' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2635
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2635^2636
+                     /note="2 bases in the human genome, TT, are not found in
+                     cDNA. The chimpanzee genome agrees with the human genomic
+                     sequence and not the cDNA."
+     misc_difference 2642..2645
+                     /note="in the human genome : TGAT. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 2652
+                     /note="'G' in cDNA is 'T' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2655
+                     /note="'T' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2674
+                     /note="'T' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2703
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2708
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2715
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2717
+                     /note="'T' in cDNA is 'G' in the human genome."
+     misc_difference 2732
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2741
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2750
+                     /note="'A' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2756
+                     /note="'T' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2759..2760
+                     /note="in the human genome : CA. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 2766..2768
+                     /note="in the human genome : ATT. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 2770..2771
+                     /note="in the human genome : CA. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 2778
+                     /note="'T' in cDNA is 'A' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2784..2786
+                     /note="in the human genome : CGT. The chimpanzee genome
+                     agrees with the human genomic sequence and not the cDNA."
+     misc_difference 2805
+                     /note="'T' in cDNA is 'G' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2818
+                     /note="'G' in cDNA is 'C' in the human genome. The
+                     chimpanzee genome agrees with the human genomic sequence
+                     and not the cDNA."
+     misc_difference 2827..2839
+                     /note="polyA tail: 13 bases do not align to the human
+                     genome."
+ORIGIN      
+        1 cccacgcgtc cgttctcttc caaggaactt tttgtttgtt ttataaagca atgggaaatc
+       61 cagaaaacat cgaagatgct tacgttgcag ttattcgtcc aaagaacact gctagtctca
+      121 actcccggga gtatagagct aagtcctatg aaattttatt gcatgaagtt cccattgaag
+      181 gacagaaaaa aaagcgaaag aaagttttgc tggaaactaa acttcaaagc aacagtgaaa
+      241 tagcacaagg catattggac tatgtagtag aaactaccaa accaatttct cctgcaaacc
+      301 aggggattaa agggaaacga gtggtgctga tgaggaagtt tcctctggac ggagagaaga
+      361 caggcagaga agcagcactg tttatcgtgc catcagttgt caaagataat actaaatatg
+      421 catatactcc tggatgccca attttttact gcttacaaga tattatgaga gtttgtagtg
+      481 aatccagtac tcactttgca acacttacag caaggatgtt aatagccttg gataagtggt
+      541 tagatgaacg tcatgcgcag tctcacttta ttccagcttt attccgacct tctccccttg
+      601 aacggataaa gacaaatgtc ataaaccctg cgtatgctgc tgaattaggc caggtagaca
+      661 attcactaca tatgggctat agtgcactag aaataaagag taaaatgcta gccctagaga
+      721 aagcagacac ctgcatttac aaccctttgt ttggatcaga tcttcagtat acaaatcggg
+      781 tagataaagt ggtaataaat ccatactttg gtctcggagc tccagactac tcaaaaatcc
+      841 aaattcccaa acaggaaaaa tggcagcgaa gcatgagcag cgttgtggaa gacaaagaac
+      901 gacagtgggt tgatgacttt cctttacatc gaaatgcctg tgaaggagat tcagaattac
+      961 tgagccatct tctcgataaa ggactttcag tcaaccaact agataatgac cactgggcac
+     1021 ccattcatta tgcatgctga aagcatctgt accattgctt gtcttctgag tattctgttc
+     1081 tgatcttttg attactgtgt atatgctgct gttcggaact gccagatctg ccctgaggag
+     1141 agcactcgca gtcttcttta caagccgtac agagagatag ccaataggta tggaaaagtt
+     1201 gaggccactc gcatattatt agagaaagga aagtgcaatc caaacctttt aaatgggcag
+     1261 ctcagctcac cgcttcactt tgctgctgga ggcggccatg ctgaaatagt gcagatcctc
+     1321 ctgactcacc cagacattga caggcacata acagatcaac aaggaagatc cccattaaat
+     1381 gtttgtgaag aaaacaaaca aaataactgg gaagaagctg caaaattgtt gaaagacgcc
+     1441 attaacaagc catatgaaaa agttcgaatc tatagaatgg atggatcata ccgttctgtt
+     1501 gaactaaagc atggcaataa taccacagca cagcagataa tggagggaat gcggctctct
+     1561 caggaaactc agcgatattt cactatttgg atctgttcag aaaatcttag tcttcagttc
+     1621 aagccttatc ataaaccctt gcaacaagtt catgactggc cagaaatact tgctgaattg
+     1681 actaatttgg atccacaaag agaaacacca cagcttttcc taagaagaga tgtgggactt
+     1741 cctttagaag ttgagaaaaa gattgaagac ccactagcta ttcttattct ctttgatgaa
+     1801 gccagatata atttactgaa gggcttttat acagctcctg atgctaaact gataacactg
+     1861 gcaagtctac tgttacaaat agtttatggg aattatgaga gtaaaaagca caaacaaggt
+     1921 ttcttaaatg aagaaactct gaaatccatc gtacctatta ctaaactgaa aagtaaggcg
+     1981 cctcactgga taaaccgaat actccatgag tacaagaatc tgagtctgag tgagggcgtc
+     2041 agtaaggaaa tgcaccacct gcagcgcatg ttcctacaga actgctggga gatccctacg
+     2101 tacggagccg ccttcttcac aggacagata tttacaaagg caagcccaag caatcataaa
+     2161 gtcatccctg tgtatgtagg agtgaatata aaaggacttc atctcctgaa catggaaact
+     2221 aaggcattac tcatcagtct caagtactgt tgctttacgt ggcagctggg agatgctggt
+     2281 acttgttttc aaatccatag tatggaaaat aaaatgagct ttatagtaca cacaaaacag
+     2341 gctggccttg tggtaaagct gctaatgaag ttaaatggac aactaatgcc ctctgaaaga
+     2401 aattcatgaa aagaatttga atttgagtac aaaccaccac attttgtaat gtagattttt
+     2461 ttccatgaaa gatttctgaa aatatgactt aacaaagcat gtagtttcat atagtatgta
+     2521 tatgctgtta catatattgt acagaatctg tactcatgtt tggtgtgtaa tataccactt
+     2581 agttttgtat gatatgctca taagctcttc taatttttga gagaaacaca taaaaataga
+     2641 tcagcagtct ggattatatt agacaaaata gtatgcttta taaaaagtta tttttggtaa
+     2701 atagtaaaga atttagtgtg gaatgtgatg aaattaaaat atagctttga tataattttg
+     2761 tgtgttactt caaatattct gaaaaccaac atgatttgaa taaataaaat gtattttgta
+     2821 cttgaaaaaa aaaaaaaaa
+//
